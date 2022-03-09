@@ -29,7 +29,7 @@
 	</tr>
 	<tr>
 		<td>Lab 7: </td>
-		<td><a href="">Web shell upload via race condition</a></td>
+		<td><a href="WU_Files/lab7.md">Web shell upload via race condition</a></td>
 	</tr>
 	
 </table>
